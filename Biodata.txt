@@ -3,3 +3,7 @@ NPM	: 140810160009
 TTL	: Kuningan, 1 Juli 1998
 JK	: Laki-Laki
 Hobi 	: Futsal
+
+Nama 	: Eko Fajar Putra
+NPM	: 140810160061
+
