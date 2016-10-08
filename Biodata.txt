@@ -1,2 +1,4 @@
 Nama	: Raditya Prirahmadian
 NPM	: 140810160009
+TTL	: Kuningan, 1 Juli 1998
+JK	: Laki-Laki
