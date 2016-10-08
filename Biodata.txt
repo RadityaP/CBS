@@ -1,2 +1,5 @@
 Nama	: Raditya Prirahmadian
 NPM	: 140810160009
+
+Nama 	: Eko Fajar Putra
+NPM	: 140810160061
