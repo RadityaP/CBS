@@ -9,3 +9,5 @@ Nama 	: Eko Fajar Putra
 NPM	: 140810160061
 Kelas	: A
 
+Nama	: Anbiya
+NPM	: 140810160031
