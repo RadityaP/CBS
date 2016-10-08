@@ -11,3 +11,6 @@ Kelas	: A
 
 Nama	: Anbiya
 NPM	: 140810160031
+
+Nama	: Alif
+NPM	: 140810160029
